@@ -4,7 +4,7 @@
 
 以下是运行UE5后所看到的**项目创建页面**，我在下图中标出了这个页面的四个功能区。
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption><p>项目创建页面的四个功能区</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption><p>项目创建页面的四个功能区</p></figcaption></figure>
 
 1、项目类型选择
 
