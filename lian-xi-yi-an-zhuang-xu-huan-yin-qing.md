@@ -6,6 +6,6 @@
 
 <figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>Epic Games启动器里的引擎版本选择</p></figcaption></figure>
 
-点击“启动”按钮，如果你看到如下的项目创建页面，那么恭喜你完成了第一个练习，在学习虚幻引擎游戏开发的道路上迈出了第一步！
+点击“启动”按钮，如果你看到如下的**项目创建页面**，那么恭喜你完成了第一个练习，在学习虚幻引擎游戏开发的道路上迈出了第一步！
 
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>项目创建页面</p></figcaption></figure>
