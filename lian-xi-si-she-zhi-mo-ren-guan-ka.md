@@ -8,7 +8,7 @@
 
 但为了避免每次重启引擎都要重复这个操作，我们可以把这个关卡设置为默认关卡。设置选项在菜单Edit->Project Settings中：
 
-![](<.gitbook/assets/image (1) (1).png>)
+![](<.gitbook/assets/image (1) (1) (1).png>)
 
 点击后进入Project Settings页面。在左侧选择Maps & Modes（地图与模式），然后在Editor Startup Map（编辑器初始地图）的下拉菜单中选择上一个练习中保存的MyFirstLevel。这样的话，以后一打开引擎就会来到这个关卡了。
 

@@ -25,9 +25,11 @@
 
 Print String节点的默认输出是“Hello”，我们按照需求把文本框里改成”Hello World!“。之后必须要记得对蓝图的更改进行编译和保存（下图红线标注的第一个是保存按钮，第二个是编译按钮）：
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>编译和保存蓝图</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>编译和保存蓝图</p></figcaption></figure>
 
-成功编译后，编译按钮会从<img src=".gitbook/assets/image (2).png" alt="" data-size="line">变为<img src=".gitbook/assets/image (3).png" alt="" data-size="line">状态。
+成功编译后，编译按钮会从<img src=".gitbook/assets/image (2).png" alt="" data-size="line">变为<img src=".gitbook/assets/image (3).png" alt="" data-size="line">状态。此后点击主工具栏上的Play按钮，就可以在关卡视图的左上方看到打出的Hello World!消息。
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>关卡开始时的Hello World！</p></figcaption></figure>
 
 ## 强迫症必须掌握的操作——节点对齐
 
