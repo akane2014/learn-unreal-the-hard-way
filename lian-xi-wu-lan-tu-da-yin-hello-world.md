@@ -19,6 +19,22 @@
 1. Event BeginPlay：在关卡刚开始运行时所发生的事件，只会触发一次
 2. Event Tick：在关卡运行的每一帧所发生的事件
 
-如果我们想在关卡开始运行的时候打印出“Hello World!”，那就在Event BeginPlay节点后连接一个Print String节点：
+如果我们想在关卡开始运行的时候打印出“Hello World!”，那就在Event BeginPlay节点后连接一个Print String节点。这个操作通过鼠标左键点住Event BeginPlay的Pin（引脚），然后拖拽到一个空白的地方释放左键，在弹出的搜索框中输入print string后，按回车来完成：
 
-![](<.gitbook/assets/image (10).png>)
+<figure><img src=".gitbook/assets/UnrealEditor_VwEBYI1jHf.gif" alt=""><figcaption><p>添加Print String节点</p></figcaption></figure>
+
+Print String节点的默认输出是“Hello”，我们按照需求把文本框里改成”Hello World!“。之后必须要记得对蓝图的更改进行编译和保存（下图红线标注的第一个是保存按钮，第二个是编译按钮）：
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>编译和保存蓝图</p></figcaption></figure>
+
+成功编译后，编译按钮会从<img src=".gitbook/assets/image (2).png" alt="" data-size="line">变为<img src=".gitbook/assets/image (3).png" alt="" data-size="line">状态。
+
+## 强迫症必须掌握的操作——节点对齐
+
+和PowerPoint一样，如果想要通过鼠标拖拽去改动节点位置，一种很常见的情况是位置调节的最小精度没法实现完美的对齐。就像这样：
+
+<figure><img src=".gitbook/assets/UnrealEditor_gHGrrJ8JXO.gif" alt=""><figcaption><p>无法完美对齐的痛苦</p></figcaption></figure>
+
+这时就要用到蓝图的自动对齐功能：鼠标框选所要对齐的节点，然后按键盘上的**q键**\[此处是可爱爷爷Nice表情包]。
+
+<figure><img src=".gitbook/assets/UnrealEditor_sGFPUvR4HR.gif" alt=""><figcaption><p>对齐所选的节点</p></figcaption></figure>

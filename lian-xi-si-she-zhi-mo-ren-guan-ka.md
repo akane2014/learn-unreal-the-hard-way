@@ -2,17 +2,17 @@
 
 如果你刚刚完成了练习三，想要继续下一步的学习，请先关闭虚幻引擎再重新打开。这时你会发现引擎像我们第一次运行时一样，又打开了那个默认的Untitled关卡。而我们在上一个练习里添加的MyFirstLevel可以在主界面下方的**内容菜单（Content Drawer）**里找到。
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>内容菜单里的MyFirstLevel</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption><p>内容菜单里的MyFirstLevel</p></figcaption></figure>
 
 双击MyFirstLevel图标即可打开关卡。
 
 但为了避免每次重启引擎都要重复这个操作，我们可以把这个关卡设置为默认关卡。设置选项在菜单Edit->Project Settings中：
 
-![](<.gitbook/assets/image (1).png>)
+![](<.gitbook/assets/image (1) (1).png>)
 
 点击后进入Project Settings页面。在左侧选择Maps & Modes（地图与模式），然后在Editor Startup Map（编辑器初始地图）的下拉菜单中选择上一个练习中保存的MyFirstLevel。这样的话，以后一打开引擎就会来到这个关卡了。
 
-<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption><p>更改编辑器默认地图</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4) (1).png" alt=""><figcaption><p>更改编辑器默认地图</p></figcaption></figure>
 
 值得注意的是，这里用到的两个词Level（关卡）和Map（地图）在当前情况下是同一个意思。
 
