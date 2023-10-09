@@ -4,7 +4,7 @@
 
 以下是运行UE5后所看到的**项目创建页面**，我在下图中标出了这个页面的四个功能区。
 
-<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption><p>项目创建页面的四个功能区</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>项目创建页面的四个功能区</p></figcaption></figure>
 
 1、项目类型选择
 
@@ -24,7 +24,7 @@
 
 确认上述四个功能区的选项后，点击Create（创建）。稍作等待，就会来到UE5的主工作窗口：
 
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption><p>UE5的主工作窗口</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption><p>UE5的主工作窗口</p></figcaption></figure>
 
 先不必被各式各样的面板和数据困扰，点击上方绿色的三角形Play按钮，就可以进入游玩模式。进入游玩模式后点击中间的游戏场景窗口，这个窗口会捕捉并隐藏你的鼠标用于人物视角控制，这时你就可以操控你的人物在这个小小的测试场地跑跑跳跳了。进入游玩模式后，也随时都可以按Esc键退出游玩模式。
 

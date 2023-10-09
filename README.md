@@ -9,7 +9,7 @@ Epic在推出UE5时，为了展示引擎的新特性提供了一个样本游戏L
 
 相比传统的教程，例如虚幻引擎的官方文档，这套练习所追求的是一种不同的学习体验。比如这里是官方文档的基础知识部分：
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>虚幻引擎基础知识</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (11).png" alt=""><figcaption><p>虚幻引擎基础知识</p></figcaption></figure>
 
 能够看出它更加适合作为一本字典，当你需要知道某个知识点的时候来查验，而不适合初学者按顺序阅读。就好像没有人会通过阅读“什么是游泳/泳池的区域设置/游泳的四种常见姿势……”来学游泳一样。
 
