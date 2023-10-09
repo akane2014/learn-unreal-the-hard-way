@@ -48,6 +48,6 @@ Details（细节）面板位于右侧大纲窗口的下方，它显示了所选�
 
 这个20米x20米的平台是目前关卡里唯一的实体内容，下面我们来保存这个关卡。主工具栏的第一个有着磁盘形象的按钮就是保存按钮。点击后系统会提示为尚未命名的关卡命名：
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>保存未命名关卡</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>保存未命名关卡</p></figcaption></figure>
 
 左侧显示的是当前的保存目录（Content），下方输入关卡的名字，例如MyFirstLevel。然后点击**Save保存**即可。
