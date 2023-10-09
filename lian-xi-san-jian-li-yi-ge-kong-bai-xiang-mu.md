@@ -1,4 +1,4 @@
-# 练习三：从空白项目开始
+# 练习三：建立一个空白项目
 
 以上两个项目只是上手前的准备工作，从这个练习开始，你要开始动手开工了。
 
@@ -50,6 +50,6 @@
 
 这个20米x20米的平台是目前关卡里唯一的实体内容，下面我们来保存这个关卡。主工具栏的第一个有着磁盘形象的按钮就是保存按钮。点击后系统会提示为尚未命名的关卡命名：
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>保存未命名关卡</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption><p>保存未命名关卡</p></figcaption></figure>
 
 左侧显示的是当前的保存目录，下方输入关卡的名字，例如MyFirstLevel。然后点击**Save保存**即可。
