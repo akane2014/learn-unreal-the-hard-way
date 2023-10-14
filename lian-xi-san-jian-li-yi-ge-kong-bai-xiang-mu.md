@@ -34,13 +34,13 @@
 
 然后选择Shape->Cube，点击后会在场景中添加一个正方体。
 
-<figure><img src=".gitbook/assets/image (4) (1) (1).png" alt=""><figcaption><p>关卡中的正方体</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption><p>关卡中的正方体</p></figcaption></figure>
 
 4、通过细节面板修改正方体的位置和大小
 
 **Details（细节）面板**位于右侧大纲窗口的下方，它显示了所选中的物体的各项参数，例如在Transform下的Position（位置）和Scale（缩放）。把Position后的三个数值（对应XYZ坐标）改成0，同时把Scale后的前两个数值（对应XY方向上的缩放）改成20，我们就得到了一个场景中的平台。
 
-<figure><img src=".gitbook/assets/image (5) (1).png" alt=""><figcaption><p>场景中的平台</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (5) (1) (1).png" alt=""><figcaption><p>场景中的平台</p></figcaption></figure>
 
 小技巧：如果物体离得太远或是不在视线范围内，你可以先在大纲窗口中选中该物体（名字是Cube），然后按“f”键，它会将主视窗移动到这个物体面前，以便你刚好能看清整个物体。
 
@@ -50,6 +50,6 @@
 
 这个20米x20米的平台是目前关卡里唯一的实体内容，下面我们来保存这个关卡。主工具栏的第一个有着磁盘形象的按钮就是保存按钮。点击后系统会提示为尚未命名的关卡命名：
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>保存未命名关卡</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>保存未命名关卡</p></figcaption></figure>
 
 左侧显示的是当前的保存目录，下方输入关卡的名字，例如MyFirstLevel。然后点击**Save保存**即可。
