@@ -32,15 +32,15 @@
     在虚幻5的编辑器中，很多时候有多种方式来完成同样的操作。例如新建蓝图类，可以采用以下几种方式。\
     一、在**内容菜单**空白处点击右键，选择Blueprint Class
 
-    <figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>右键菜单中的Blueprint Class</p></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption><p>右键菜单中的Blueprint Class</p></figcaption></figure>
 
     二、**内容菜单**里点击Add（添加）按钮后选择Blueprint Class
 
-    <figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>内容菜单里的添加按钮</p></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption><p>内容菜单里的添加按钮</p></figcaption></figure>
 
     三、点击**主工具栏**里的Blueprint（蓝图）-> New Empty Blueprint Class （新建空白蓝图类）
 
-    <figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption><p>主工具栏中的蓝图按钮</p></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption><p>主工具栏中的蓝图按钮</p></figcaption></figure>
 2.  选择新建蓝图的父类\
     无论是采用上述三种方法中的哪一个，都会弹出这个选择父类的窗口。在这里我们选择第一个选项——Actor。因为我们想要添加的是一个可以**放在关卡中**的旋转方块（还记得Actor的定义吗？）。
 
@@ -67,3 +67,12 @@
 ## 编写蓝图实现方块旋转
 
 在练习五里，我们添加了Level blueprint（关卡蓝图），它是由关卡事件驱动的蓝图脚本。而在Blueprint Class（蓝图类）中，蓝图脚本是根据对象的状态来触发的。举例来说，关卡蓝图中的Event BeginPlay是指关卡开始运行时触发的事件，而蓝图类的Event BeginPlay是指这个对象被加入到关卡时的事件，例如一颗射出的炮弹，它的Event BeginPlay发生在射击的那一刻。
+
+接下来回到蓝图编辑器（或双击BP\_RotatingCube蓝图类重新打开编辑器）。刚才我们为这个蓝图类BP\_RotatingCube添加一个方块的时候，所看到的是编辑器主工作区的Viewport窗口：
+
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>蓝图编辑器的Viewport窗口</p></figcaption></figure>
+
+而进入蓝图编程需要切换到Event Graph（事件图）窗口：
+
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption><p>蓝图编辑器的Event Graph窗口</p></figcaption></figure>
+
