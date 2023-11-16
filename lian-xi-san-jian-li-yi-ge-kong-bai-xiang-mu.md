@@ -8,7 +8,7 @@
 
 <figure><img src=".gitbook/assets/image (8) (1).png" alt=""><figcaption><p><strong>项目创建页面</strong></p></figcaption></figure>
 
-这次选择**Blank（空白）**项目，然后点击**Create（创建）**按钮。
+这次选择**Blank（空白）**项目，输入项目名称（这里我取的名字是MyProject），然后点击**Create（创建）**按钮。
 
 所产生的空白项目会包含一个名为Untitled的关卡，里面是一个默认的地形场景：
 

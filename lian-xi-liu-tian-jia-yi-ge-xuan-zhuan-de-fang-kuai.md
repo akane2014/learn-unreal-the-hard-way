@@ -42,7 +42,7 @@
 
     <figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption><p>主工具栏中的蓝图按钮</p></figcaption></figure>
 2.  选择新建蓝图的父类\
-    无论是采用上述三种方法中的哪一个，都会弹出这个选择父类的窗口。在这里我们选择第一个选项——Actor。因为我们想要添加的是一个可以**放在关卡中**的旋转方块。
+    无论是采用上述三种方法中的哪一个，都会弹出这个选择父类的窗口。在这里我们选择第一个选项——Actor。因为我们想要添加的是一个可以**放在关卡中**的旋转方块（还记得Actor的定义吗？）。
 
     <figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption><p>选择新建蓝图类的父类</p></figcaption></figure>
 3.  给蓝图类命名\
@@ -63,3 +63,7 @@
    ![](.gitbook/assets/UnrealEditor\_ukbmfpxR03.gif)
 6. 在蓝图中实现方块的旋转\
    接下来就到了这个练习最核心的部分，通过蓝图编程实现旋转的功能。
+
+## 编写蓝图实现方块旋转
+
+在练习五里，我们添加了Level blueprint（关卡蓝图），它是由关卡事件驱动的蓝图脚本。而在Blueprint Class（蓝图类）中，蓝图脚本是根据对象的状态来触发的。举例来说，关卡蓝图中的Event BeginPlay是指关卡开始运行时触发的事件，而蓝图类的Event BeginPlay是指这个对象被加入到关卡时的事件，例如一颗射出的炮弹，它的Event BeginPlay发生在射击的那一刻。
